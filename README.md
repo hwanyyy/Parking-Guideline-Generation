@@ -2,6 +2,8 @@
 
 
 
+![checkbox_in](/checkbox_in.png)
+![checkbox_out](/checkbox_out.png)
 
 
 
