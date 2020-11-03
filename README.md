@@ -1,6 +1,5 @@
 # Parking-Guideline-Generation
 
-아 빨리 좌표로 설정하게 추가 업데이트 해야되는데..
 
 ![checkbox_in](/checkbox_in.png)
 ![checkbox_out](/checkbox_out.png)
