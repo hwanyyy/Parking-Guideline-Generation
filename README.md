@@ -1,5 +1,7 @@
 # Parking-Guideline-Generation
-
+[다른 영상에 적용가능하도록 수정할 예정]
+1: 좌표로 와핑
+2: 임의의 숫자 -> 변수로
 
 ![checkbox_in](/checkbox_in.png)
 ![checkbox_out](/checkbox_out.png)
